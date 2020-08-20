@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_symmetrical_fir_behav/xsimk -simmode gui -wdb tb_symmetrical_fir_behav.wdb -simrunnum 0 -socket 47911
+Design successfully loaded
+Design Loading Memory Usage: 44088 KB (Peak: 44208 KB)
+Design Loading CPU Usage: 20 ms

@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl2008 xil_defaultlib  \
+"../../../../TP1_EJ4.srcs/sources_1/new/ff_module.vhd" \
+"../../../../TP1_EJ4.srcs/sources_1/new/mul_module.vhd" \
+"../../../../TP1_EJ4.srcs/sources_1/new/saturation.vhd" \
+"../../../../TP1_EJ4.srcs/sources_1/new/round.vhd" \
+"../../../../TP1_EJ4.srcs/sources_1/new/symmetrical_fir.vhd" \
+"../../../../TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../TP1_EJ1_P4.srcs/sources_1/imports/new/full_adder.vhd" \
+"../../../../TP1_EJ1_P4.srcs/sources_1/imports/new/half_adder.vhd" \
+"../../../../TP1_EJ1_P4.srcs/sources_1/new/ripple_carry_adder.vhd" \
+"../../../../TP1_EJ1_P4.srcs/sim_1/new/tb_ripple_carry_adder.vhd" \
+
+# Do not sort compile order
+nosort

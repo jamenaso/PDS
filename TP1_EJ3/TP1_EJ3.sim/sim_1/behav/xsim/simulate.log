@@ -1,0 +1,124 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Note: Valor leido: 0
+Time: 200 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 0
+Time: 220 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 0
+Time: 220 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 32
+Time: 300 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 32
+Time: 320 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 1
+Time: 320 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 400 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -16
+Time: 420 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 2
+Time: 420 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: -32
+Time: 500 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 0
+Time: 520 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 3
+Time: 520 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 600 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 60
+Time: 620 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 4
+Time: 620 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 32
+Time: 700 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 30
+Time: 720 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 5
+Time: 720 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 800 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -34
+Time: 820 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 6
+Time: 820 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: -32
+Time: 900 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -10
+Time: 920 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 7
+Time: 920 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 1 us  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 50
+Time: 1020 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 8
+Time: 1020 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 32
+Time: 1100 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 22
+Time: 1120 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 9
+Time: 1120 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 1200 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -41
+Time: 1220 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 10
+Time: 1220 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: -32
+Time: 1300 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -15
+Time: 1320 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 11
+Time: 1320 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 1400 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 46
+Time: 1420 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 12
+Time: 1420 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 32
+Time: 1500 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 19
+Time: 1520 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 13
+Time: 1520 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 1600 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -43
+Time: 1620 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 14
+Time: 1620 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: -32
+Time: 1700 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -17
+Time: 1720 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 15
+Time: 1720 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 1800 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 44
+Time: 1820 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 16
+Time: 1820 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 32
+Time: 1900 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: 17
+Time: 1920 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 17
+Time: 1920 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: 0
+Time: 2 us  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -45
+Time: 2020 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 18
+Time: 2020 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor leido: -32
+Time: 2100 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Valor ESCRITO: -19
+Time: 2120 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Indice: 19
+Time: 2120 ns  Iteration: 2  Process: /tb_diff_ecuation/p_write_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd
+Note: Fin lectura del archivo
+Time: 2200 ns  Iteration: 0  Process: /tb_diff_ecuation/p_read_file  File: /home/jamm/PDS/TP1_EJ3/TP1_EJ3.srcs/sim_1/new/tb_diff_ecuation.vhd

@@ -1,0 +1,12 @@
+
+{ 
+    crc :  6763679109769374411  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto f468ec40a4014af2b290234076fc3481 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot tb_simple_alu_behav xil_defaultlib.tb_simple_alu" , 
+    buildDate : "May 27 2020" , 
+    buildTime : "19:59:15" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/tb_simple_alu_behav/xsimk\"   \"xsim.dir/tb_simple_alu_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/tb_simple_alu_behav/obj/xsim_1.lnx64.o\" -L\"/home/jamm/Xilinx/Vivado/2020.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_diff_ecuation_behav/xsimk -simmode gui -wdb tb_diff_ecuation_behav.wdb -simrunnum 0 -socket 38723
+Design successfully loaded
+Design Loading Memory Usage: 44068 KB (Peak: 44188 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 134004 KB (Peak: 183336 KB)
+Simulation CPU Usage: 10 ms

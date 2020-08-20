@@ -1,0 +1,1130 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Note: Valor leido: 0
+Time: 200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 0
+Time: 220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -496
+Time: 320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 1
+Time: 320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -308
+Time: 420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 2
+Time: 420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 2871
+Time: 520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 3
+Time: 520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10049
+Time: 620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 4
+Time: 620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19203
+Time: 720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 5
+Time: 720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 6
+Time: 820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 7
+Time: 920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 1 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 1020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 8
+Time: 1020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 1100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 1120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 9
+Time: 1120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 1200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 1220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 10
+Time: 1220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 1300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 1320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 11
+Time: 1320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 1400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 1420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 12
+Time: 1420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 1500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 1520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 13
+Time: 1520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 1600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 1620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 14
+Time: 1620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 1700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 1720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 15
+Time: 1720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 1800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 1820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 16
+Time: 1820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 1900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 1920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 17
+Time: 1920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 2 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 2020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 18
+Time: 2020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 2100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 2120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 19
+Time: 2120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 2200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 2220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 20
+Time: 2220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 2300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 2320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 21
+Time: 2320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 2400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 2420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 22
+Time: 2420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 2500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 2520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 23
+Time: 2520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 2600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 2620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 24
+Time: 2620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 2700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 2720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 25
+Time: 2720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 2800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 2820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 26
+Time: 2820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 2900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 2920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 27
+Time: 2920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 3 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 3020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 28
+Time: 3020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 3100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 3120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 29
+Time: 3120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 3200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 3220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 30
+Time: 3220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 3300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 3320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 31
+Time: 3320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 3400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 3420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 32
+Time: 3420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 3500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 3520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 33
+Time: 3520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 3600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 3620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 34
+Time: 3620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 3700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 3720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 35
+Time: 3720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 3800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 3820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 36
+Time: 3820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 3900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 3920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 37
+Time: 3920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 4 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 4020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 38
+Time: 4020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 4100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 4120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 39
+Time: 4120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 4200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 4220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 40
+Time: 4220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 4300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 4320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 41
+Time: 4320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 4400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 4420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 42
+Time: 4420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 4500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 4520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 43
+Time: 4520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 4600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 4620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 44
+Time: 4620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 4700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 4720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 45
+Time: 4720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 4800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 4820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 46
+Time: 4820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 4900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 4920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 47
+Time: 4920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 5 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 5020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 48
+Time: 5020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 5100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 5120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 49
+Time: 5120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 5200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 5220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 50
+Time: 5220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 5300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 5320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 51
+Time: 5320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 5400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 5420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 52
+Time: 5420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 5500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 5520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 53
+Time: 5520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 5600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 5620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 54
+Time: 5620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 5700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 5720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 55
+Time: 5720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 5800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 5820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 56
+Time: 5820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 5900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 5920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 57
+Time: 5920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 6 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 6020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 58
+Time: 6020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 6100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 6120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 59
+Time: 6120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 6200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 6220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 60
+Time: 6220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 6300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 6320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 61
+Time: 6320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 6400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 6420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 62
+Time: 6420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 6500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 6520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 63
+Time: 6520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 6600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 6620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 64
+Time: 6620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 6700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 6720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 65
+Time: 6720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 6800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 6820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 66
+Time: 6820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 6900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 6920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 67
+Time: 6920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 7 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 7020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 68
+Time: 7020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 7100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 7120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 69
+Time: 7120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 7200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 7220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 70
+Time: 7220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 7300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 7320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 71
+Time: 7320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 7400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 7420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 72
+Time: 7420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 7500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 7520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 73
+Time: 7520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 7600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 7620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 74
+Time: 7620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 7700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 7720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 75
+Time: 7720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 7800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 7820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 76
+Time: 7820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 7900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 7920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 77
+Time: 7920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 8 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 8020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 78
+Time: 8020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 8100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 8120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 79
+Time: 8120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 8200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 8220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 80
+Time: 8220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 8300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 8320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 81
+Time: 8320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 8400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 8420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 82
+Time: 8420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 8500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 8520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 83
+Time: 8520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 8600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 8620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 84
+Time: 8620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 8700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 8720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 85
+Time: 8720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 8800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 8820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 86
+Time: 8820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 8900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 8920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 87
+Time: 8920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 9 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 9020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 88
+Time: 9020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 9100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 9120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 89
+Time: 9120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 9200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 9220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 90
+Time: 9220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 9300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 9320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 91
+Time: 9320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 9400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 9420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 92
+Time: 9420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 9500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 9520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 93
+Time: 9520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 9600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 9620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 94
+Time: 9620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 9700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 9720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 95
+Time: 9720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 9800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 9820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 96
+Time: 9820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 9900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 9920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 97
+Time: 9920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 10 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 10020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 98
+Time: 10020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 10100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 10120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 99
+Time: 10120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 10200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 10220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 100
+Time: 10220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 10300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 10320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 101
+Time: 10320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 10400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 10420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 102
+Time: 10420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 10500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 10520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 103
+Time: 10520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 10600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 10620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 104
+Time: 10620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 10700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 10720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 105
+Time: 10720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 10800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 10820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 106
+Time: 10820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 10900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 10920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 107
+Time: 10920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 11 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 11020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 108
+Time: 11020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 11100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 11120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 109
+Time: 11120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 11200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 11220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 110
+Time: 11220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 11300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 11320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 111
+Time: 11320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 11400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 11420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 112
+Time: 11420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 11500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 11520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 113
+Time: 11520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 11600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 11620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 114
+Time: 11620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 11700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 11720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 115
+Time: 11720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 11800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 11820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 116
+Time: 11820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 11900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 11920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 117
+Time: 11920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 12 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 12020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 118
+Time: 12020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 12100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 12120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 119
+Time: 12120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 12200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 12220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 120
+Time: 12220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 12300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 12320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 121
+Time: 12320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 12400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 12420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 122
+Time: 12420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 12500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 12520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 123
+Time: 12520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 12600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 12620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 124
+Time: 12620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 12700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 12720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 125
+Time: 12720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 12800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 12820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 126
+Time: 12820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 12900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 12920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 127
+Time: 12920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 13 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 13020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 128
+Time: 13020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 13100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 13120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 129
+Time: 13120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 13200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 13220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 130
+Time: 13220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 13300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 13320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 131
+Time: 13320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 13400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 13420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 132
+Time: 13420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 13500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 13520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 133
+Time: 13520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 13600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 13620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 134
+Time: 13620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 13700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 13720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 135
+Time: 13720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 13800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 13820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 136
+Time: 13820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 13900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 13920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 137
+Time: 13920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 14 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 14020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 138
+Time: 14020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 14100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 14120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 139
+Time: 14120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 14200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 14220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 140
+Time: 14220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 14300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 14320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 141
+Time: 14320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 14400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 14420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 142
+Time: 14420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 14500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 14520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 143
+Time: 14520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 14600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 14620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 144
+Time: 14620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 14700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 14720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 145
+Time: 14720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 14800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 14820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 146
+Time: 14820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 14900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 14920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 147
+Time: 14920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 15 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 15020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 148
+Time: 15020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 15100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 15120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 149
+Time: 15120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 15200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 15220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 150
+Time: 15220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 15300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 15320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 151
+Time: 15320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 15400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 15420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 152
+Time: 15420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 15500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 15520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 153
+Time: 15520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 15600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 15620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 154
+Time: 15620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 15700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 15720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 155
+Time: 15720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 15800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 15820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 156
+Time: 15820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 15900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 15920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 157
+Time: 15920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 16 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 16020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 158
+Time: 16020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 16100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 16120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 159
+Time: 16120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 16200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 16220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 160
+Time: 16220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 16300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 16320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 161
+Time: 16320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 16400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 16420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 162
+Time: 16420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 16500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 16520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 163
+Time: 16520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 16600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 16620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 164
+Time: 16620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 16700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 16720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 165
+Time: 16720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 16800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 16820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 166
+Time: 16820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 16900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 16920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 167
+Time: 16920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 17 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 33516
+Time: 17020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 168
+Time: 17020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 17100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 17120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 169
+Time: 17120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 17200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 17220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 170
+Time: 17220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 17300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 17320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 171
+Time: 17320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 17400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 17420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 172
+Time: 17420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 17500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 17520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 173
+Time: 17520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 17600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 17620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 174
+Time: 17620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -16384
+Time: 17700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 17720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 175
+Time: 17720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -15582
+Time: 17800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 17820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 176
+Time: 17820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -13254
+Time: 17900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 17920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 177
+Time: 17920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -9630
+Time: 18 us  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -33516
+Time: 18020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 178
+Time: 18020 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: -5062
+Time: 18100 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -31874
+Time: 18120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 179
+Time: 18120 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 0
+Time: 18200 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -27115
+Time: 18220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 180
+Time: 18220 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 5062
+Time: 18300 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -19699
+Time: 18320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 181
+Time: 18320 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 9630
+Time: 18400 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: -10357
+Time: 18420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 182
+Time: 18420 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 18500 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 0
+Time: 18520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 183
+Time: 18520 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 18600 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 10357
+Time: 18620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 184
+Time: 18620 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 16384
+Time: 18700 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 19699
+Time: 18720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 185
+Time: 18720 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 15582
+Time: 18800 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 27115
+Time: 18820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 186
+Time: 18820 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor leido: 13254
+Time: 18900 ns  Iteration: 0  Process: /tb_symmetrical_fir/p_read_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Valor ESCRITO: 31874
+Time: 18920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd
+Note: Indice: 187
+Time: 18920 ns  Iteration: 2  Process: /tb_symmetrical_fir/p_write_file  File: /home/jamm/PDS/TP1_EJ4 _ROUND/TP1_EJ4.srcs/sim_1/new/tb_symmetrical_fir.vhd

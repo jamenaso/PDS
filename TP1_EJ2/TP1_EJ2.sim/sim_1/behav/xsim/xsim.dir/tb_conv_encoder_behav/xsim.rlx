@@ -1,0 +1,12 @@
+
+{ 
+    crc :  15040591060898357192  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 1a78e326425f4a4994c0a1ad1103ce70 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot tb_conv_encoder_behav xil_defaultlib.tb_conv_encoder" , 
+    buildDate : "May 27 2020" , 
+    buildTime : "19:59:15" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/tb_conv_encoder_behav/xsimk\"   \"xsim.dir/tb_conv_encoder_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/tb_conv_encoder_behav/obj/xsim_1.lnx64.o\" -L\"/home/jamm/Xilinx/Vivado/2020.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
